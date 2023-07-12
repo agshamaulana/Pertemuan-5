@@ -1,0 +1,8 @@
+D:\4823\Latihan Overload\obj\Debug\Latihan Overload.csproj.AssemblyReference.cache
+D:\4823\Latihan Overload\obj\Debug\Latihan Overload.csproj.SuggestedBindingRedirects.cache
+D:\4823\Latihan Overload\obj\Debug\Latihan Overload.csproj.CoreCompileInputs.cache
+D:\4823\Latihan Overload\bin\Debug\Latihan Overload.exe.config
+D:\4823\Latihan Overload\bin\Debug\Latihan Overload.exe
+D:\4823\Latihan Overload\bin\Debug\Latihan Overload.pdb
+D:\4823\Latihan Overload\obj\Debug\Latihan Overload.exe
+D:\4823\Latihan Overload\obj\Debug\Latihan Overload.pdb
